@@ -1,0 +1,99 @@
+.AG{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color: darkslategray;
+    text-align: center;
+}
+.fa-sharp{
+    position: absolute;
+    left:3%;
+    top:71px;
+}
+.phone{
+    position:absolute;
+    left:5%;
+    top:55px;
+}
+.mail{
+    position: absolute;
+    left:750px;
+    top:68px;
+}
+
+.bi-linkedin{
+    position:absolute;
+    left:18%;
+    top:71px;
+}
+.Linkedin{
+    position:absolute;
+    left:20%;
+    top:70px;
+}
+i{
+    position:absolute;
+    left:20%;
+    top:73%;
+}
+.link{
+    position:absolute;
+    left:20%;
+    top:71;
+}
+.material-symbols-outlined{
+    position: absolute;
+    left:70%;
+    top:67px;
+}
+.link{
+    position: absolute;
+    left:15px;
+    top:67px;
+}
+
+
+.CO{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkslategrey;
+    font-size:x-large;
+}
+.Education{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size: x-large;
+}
+.BE{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size:medium;
+}
+.HSC{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size:medium;
+}
+.SSC{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size:medium;
+}
+.skills{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size:x-large;
+}
+.PU{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size:x-large;  
+}
+.interest{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size:x-large;
+}
+.cerf{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size:x-large;
+}
